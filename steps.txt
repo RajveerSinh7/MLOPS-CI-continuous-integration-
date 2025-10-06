@@ -1,3 +1,7 @@
 1) create a simple python app using streamlit (motive is to implement ci).
 2) create a folder ".github" and inside it "workflows". (dont change name of folder)
 3) inside this, create a .yaml file (any name).
+4) add the contents in yaml file
+5) write a testing script
+6) push to github
+7) check "actions" column
